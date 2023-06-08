@@ -1,0 +1,28 @@
+.cart {
+  border: 1px solid black;
+  /* width: 200px; */
+  height: auto;
+  background-color: rgb(212, 249, 156);
+  margin: 20px;
+  padding: 10px;
+}
+.cart2 {
+  background-color: aqua;
+  height: auto;
+  margin: 20px;
+  padding: 10px;
+}
+.bill {
+  margin: 10px;
+  padding: 10px;
+  font-weight: bold;
+}
+.btn1 {
+  margin-top: 19px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: red;
+  color: wheat;
+  width: 16%;
+  cursor: pointer;
+}

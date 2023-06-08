@@ -1,0 +1,34 @@
+.card {
+  border: 1px solid black;
+  height: 300px;
+  width: 400px;
+  margin: 20px;
+  border-radius: 10%;
+}
+.cart-title {
+  font-size: larger;
+  padding: 10px;
+}
+.imageh {
+  border-radius: 10%;
+  margin-top: 5px;
+}
+.cart-description {
+  text-align: center;
+  font-size: small;
+}
+.btn {
+  padding: 10px;
+  border-radius: 10%;
+  cursor: pointer;
+  background-color: greenyellow;
+}
+.price {
+  margin: 5px;
+  font-size: larger;
+}
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
